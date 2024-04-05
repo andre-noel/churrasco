@@ -38,3 +38,32 @@ git checkout -b seu-nome
 
 - Desenvolva o sistema na pasta do projeto (ou cole o arquivo do código-fonte nesta pasta)
 - Faça um PR nesse repositório ([pode usar esse link](https://github.com/andre-noel/churrasco/pulls))
+
+### Dúvidas sobre git, github ou pull request?
+
+Podem me gritar a qualquer momento no e-mail andre@andrenoel.com.br ou nas redes sociais estou como @ProgramadorREAL (inclusive telegram).
+
+Você pode abrir um pull request logo no começo, depois todo commit seu já vai automaticamente pra lá.
+
+## Entregas
+
+### Para o dia 11/abr
+
+- Crie um arquivo de texto (pode ser TXT, MD, DOC ou algo parecido) com o nome "PLANEJAMENTO", onde você vai anotar como fez o planejamento
+  - Fizeram reuniões?
+  - Como dividiram as funções?
+  - Como decidiram a tecnologia a ser usada?
+  - Qual é o tempo que tiraram para desenvolver o projeto?
+  - Quais foram as dificuldades identificadas no planejamento?
+
+Provavelmente teremos um tempo para falar sobre esses envios na aula, por isso façam o PR antes da aula.
+
+Coloquem os nomes da equipe (de uma ou duas pessoas) nesse arquivo. 
+
+### Para o dia 18/abr
+
+- Coloque o seu código-fonte na pasta do projeto e envie para o PR
+
+Teremos um "pitch" durante a aula onde vocês vão apresentar o sistema.
+
+Beleza não é o essencial, mas é sempre um _plus_!
