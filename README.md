@@ -37,6 +37,26 @@ git checkout -b seu-nome
 ```
 
 - Desenvolva o sistema na pasta do projeto (ou cole o arquivo do código-fonte nesta pasta)
+
+Para fazer as atualizações:
+
+```sh
+git add .
+git commit -m 'Mensagem de commit'
+```
+
+Sempre que quiser, pode subir a atualização com
+
+```sh
+git push
+```
+
+Da primeira vez que for subir uma atualização, o git vai pedir mais informações. Daí basta digitar:
+
+```sh
+git push -u origin nome-da-branch
+```
+
 - Faça um PR nesse repositório ([pode usar esse link](https://github.com/andre-noel/churrasco/pulls))
 
 ### Dúvidas sobre git, github ou pull request?
